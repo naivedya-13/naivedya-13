@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996124110?e=2147483647&v=beta&t=y0N9ZCC9USXV2Zpade_jpLirGBA_paYRscwd-vhhQ9Q)]
+[![MasterHead](https://www.supacode.dev/assets/blog/fullstack-programmer-xyz.jpg)](https://naivedya-13.io)
 <h1 align="center">Hi 👋, I'm Naivedya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif">
